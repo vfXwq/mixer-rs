@@ -1,2 +1,2 @@
 # Mixer-RS
-Mixer: a revolutionary three-dimensional computational design software, writtein in Rust with safety and user experience in mind. 
+Mixer: a revolutionary three-dimensional computational design software, written in Rust with safety, efficiency, and user experience in mind. 
